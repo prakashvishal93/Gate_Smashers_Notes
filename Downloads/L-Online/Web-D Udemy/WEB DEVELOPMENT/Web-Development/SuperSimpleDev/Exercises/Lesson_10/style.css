@@ -1,0 +1,21 @@
+.username{
+    font-style: ar;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.name{
+    color:rgb(147, 146, 147) ;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0px;
+}
+.popularity{
+    color:rgb(147, 146, 147);
+}
+button{
+background-color: #0095F6;
+border: none;
+color: white;
+border-radius: 2px;
+
+}
